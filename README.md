@@ -8,3 +8,7 @@ Thereafter, every ~15 minutes, it:
 * downloads a picture of Lionel Richie, 
 * displays it on the screen infront of your work
 * and says "Hello, is it me you're looking for". 
+
+
+
+Written in 2013 by Chase McCarty
